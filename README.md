@@ -39,3 +39,7 @@ On desktop it seems like 119 chars is the most before you get a scrollbar. 121 c
 ```
 123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 ```
+
+---
+
+Incidentally, you can set a tmux pane to a specific width (e.g. 119) with your tmux prefix (default Ctrl-B) followed by `:resize-pane -x 119`
